@@ -15,16 +15,8 @@ A summary of whether long-distance wireless electricity transmission is physical
 
 ## Repository contents
 
-```
-data/
-├── wireless_power_summary.xlsx   <- live model with formulas
-└── csv/                          <- read-only snapshots of each tab
-    ├── feasibility.csv
-    ├── cost_estimates.csv
-    ├── launch_cost_scenarios.csv
-    ├── players_timeline.csv
-    └── sources.csv
-```
+- `wireless_power_summary.xlsx`: the live model with formulas
+- `feasibility.csv`, `cost_estimates.csv`, `launch_cost_scenarios.csv`, `players_timeline.csv`, `sources.csv`: read-only snapshots of each tab
 
 The CSV files store calculated values, not formulas. Use the `.xlsx` to change inputs.
 

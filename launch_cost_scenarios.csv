@@ -1,0 +1,11 @@
+Launch Cost Sensitivity
+Input,Value,Unit,Source / basis
+Plant capacity,1000,MW,1 GW example
+Satellite mass per kW delivered,5,kg/kW,My assumption (target level mentioned earlier is a few kg/kW)
+Total launched mass,5000000,kg,Formula
+Scenario,Launch cost ($/kg),Launch cost ($ billion),Basis
+Current SpaceX price (upper bound),3000,15,"Space.com: under $3,000/kg"
+"Industry range, low end today",1500,7.5,"Sustainable Atlas: $1,500-2,700/kg"
+Mid-term reduction,500,2.5,My illustrative scenario
+Break-even claim (Virtus Solis),200,1,Company claim; treat with caution
+"Note: launch is only one cost component; satellite manufacturing, in-orbit assembly and rectennas are extra."

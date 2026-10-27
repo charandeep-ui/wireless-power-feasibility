@@ -1,0 +1,10 @@
+Wireless Power Transmission: What Is Proven vs Not Yet Proven
+Technology / Claim,Status,Range / Scale,Notes
+"Near-field resonant coils (Qi, resonant links)",Proven,cm to a few m,Commercial products exist.
+"Microwave beaming, ground to ground",Proven (small scale),~30 kW over 1 mile (1975),NASA/Raytheon demonstration.
+Orbital power beaming,Demonstrated (small scale),Small experimental scale,Caltech MAPLE; Space Solar CASSIOPeiA 360-degree transmission demo.
+Collecting sunlight in orbit and beaming it down,No longer needs proof of concept,Component level,Per 2026 industry reporting.
+Gigawatt-scale beaming,Not proven,GW,No demonstration yet.
+Kilometer-scale in-orbit assembly and maintenance,Capability gap,km,Identified by NASA review as a main gap.
+Cost-competitive electricity,Not proven,n/a,Depends on launch cost and mass per kW.
+Earth/atmosphere as free conductor (Tesla's original idea),Not viable,n/a,Ground and ionosphere are too lossy; energy always comes from a transmitter.

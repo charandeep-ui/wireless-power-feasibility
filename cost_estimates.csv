@@ -1,0 +1,18 @@
+Cost Estimates
+Blue = editable input. Black = formula. Yellow = my assumption (not from a source).
+Input,Value,Unit,Source / basis
+"Space solar installed cost, low",2,$/W,"Sustainable Atlas, 2026 (range $2-12/W)"
+"Space solar installed cost, high",12,$/W,"Sustainable Atlas, 2026 (range $2-12/W)"
+"Terrestrial solar cost, low",0.7,$/W,"Sustainable Atlas, 2026 (range $0.70-1.20/W)"
+"Terrestrial solar cost, high",1.2,$/W,"Sustainable Atlas, 2026 (range $0.70-1.20/W)"
+Plant capacity,1,GW,Example size; change freely
+Number of GW-class plants (global network),100,plants,My illustrative assumption
+Output,Low,High,Unit / note
+Cost of one plant,2,12,$ billion (GW x $/W)
+Equivalent terrestrial solar plant,0.7,1.2,$ billion
+Space premium vs terrestrial (x),1.6667,17.1429,"Low = best case, High = worst case"
+Global network of plants,200,1200,"$ billion; illustrative extrapolation, not a sourced figure"
+Stage,Low ($ million),High ($ million),Basis
+Kilowatt-class orbital demo,50,300,"My estimate: small satellite, launch, ground receiver"
+Tens-of-MW pilot,1000,5000,My estimate
+GW-class plant (from above),2000,12000,Linked to the calculation above
